@@ -4,8 +4,8 @@
 - 可以把`default.ipynb`作为模版
 - 每个人请先 commit->push 到自己的分支
 - 请不要上传私人文档，包括 .文件夹 （比如 `.ipynb_checkpoints`, `.idea`等等）。推荐使用`.gitignore`
-- 当前做的任务在'Projects'里 拉到'In progress'， 做完的话 到'Done'
-- 如果遇到任何别的任务，别忘记在'Projects'里记录下来
+- 当前做的任务在[Projects](https://github.com/darknessest/datamining_uci_hw/projects/1)里 拉到'In progress'， 做完的话 到'Done'
+- 如果遇到任何别的任务，别忘记在[Projects](https://github.com/darknessest/datamining_uci_hw/projects/1)里记录下来
 
 ## 合作者
 曾嘉宝，陈丰铧，博雅力
